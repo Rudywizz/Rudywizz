@@ -3,9 +3,9 @@
 **Rudywizz** adıyla web uygulamaları, SaaS ürünleri, yapay zekâ otomasyonları ve oyunlar geliştiriyorum.
 Bursa Karacabey'deyim; gündüz bilgi işlem uzmanıyım, kalan zamanımda kendi ürünlerimi ve freelance projeleri yürütüyorum.
 
-🌐 [rudywizz.com](https://rudywizz.com): Türkçe yapay zekâ atlası ve sözlüğü
-🎮 [rudywizz.info](https://rudywizz.info): oyun gibi oynanan portfolyom ve CV'm
-📰 [@rudywizzai](https://www.instagram.com/rudywizzai/): her gün Türkçe yapay zekâ gündemi
+- 🌐 [rudywizz.com](https://rudywizz.com): Türkçe yapay zekâ atlası ve sözlüğü
+- 🎮 [rudywizz.info](https://rudywizz.info): oyun gibi oynanan portfolyom ve CV'm
+- 📰 [@rudywizzai](https://www.instagram.com/rudywizzai/): her gün Türkçe yapay zekâ gündemi
 
 ## Üzerinde çalıştıklarım
 
@@ -20,11 +20,11 @@ Müşteri işlerinden bazıları: [Lojistik.ai](https://www.lojistik.ai) · [Fin
 
 ## Kullandıklarım
 
-**Diller:** Python · TypeScript · JavaScript · C# · HTML/CSS
-**Web:** Next.js · Astro · React · FastAPI · Flask · Supabase · PostgreSQL
-**Oyun ve masaüstü:** Godot 4 · Unity · PyQt6
-**Yapay zekâ:** LLM entegrasyonu · ajanlarla geliştirme · kendi sunucusunda çalışan modeller
-**Video:** Premiere Pro · After Effects · DaVinci Resolve
+- **Diller:** Python · TypeScript · JavaScript · C# · HTML/CSS
+- **Web:** Next.js · Astro · React · FastAPI · Flask · Supabase · PostgreSQL
+- **Oyun ve masaüstü:** Godot 4 · Unity · PyQt6
+- **Yapay zekâ:** LLM entegrasyonu · ajanlarla geliştirme · kendi sunucusunda çalışan modeller
+- **Video:** Premiere Pro · After Effects · DaVinci Resolve
 
 ## İletişim
 
