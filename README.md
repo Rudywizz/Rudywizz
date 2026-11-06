@@ -5,7 +5,18 @@ Bursa Karacabey'deyim; gündüz bilgi işlem uzmanıyım, kalan zamanımda kendi
 
 - 🌐 [rudywizz.com](https://rudywizz.com): Türkçe yapay zekâ atlası ve sözlüğü
 - 🎮 [rudywizz.info](https://rudywizz.info): oyun gibi oynanan portfolyom ve CV'm
+- 🎬 [rudywizz-motion](https://github.com/Rudywizz/rudywizz-motion): açık kaynak, koddan motion graphics
 - 📰 [@rudywizzai](https://www.instagram.com/rudywizzai/): her gün Türkçe yapay zekâ gündemi
+
+## Açık kaynak
+
+<a href="https://github.com/Rudywizz/rudywizz-motion"><img src="img/motion.webp" alt="rudywizz-motion showreel" width="100%"></a>
+
+### [rudywizz-motion](https://github.com/Rudywizz/rudywizz-motion)
+Koddan render edilen sinematik motion graphics: kinetik tipografi, 3D başlıklar, alt bantlar, sohbet hikâyeleri ve harita animasyonları. 36 stil, 13 şablon; tek komutla MP4, şeffaf MOV/WebM, GIF ya da WebP. Bir CLI ve Claude Code skill paketi.<br>
+<sub>JavaScript · WebGL2 · Playwright · ffmpeg · MIT</sub>
+
+[![GitHub stars](https://img.shields.io/github/stars/Rudywizz/rudywizz-motion?style=flat&color=FF6B5A)](https://github.com/Rudywizz/rudywizz-motion) [![Web sitesi](https://img.shields.io/badge/canlı%20galeri-rudywizz.github.io-14B8A6)](https://rudywizz.github.io/rudywizz-motion/)
 
 ## Projelerim
 
